@@ -771,7 +771,7 @@
     
     <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
     <Representation id="textstream_ms_1" bandwidth="256">
-        <BaseURL>https://adamlink666.github.io/school/alina/getaway-2024/</BaseURL>
+        <BaseURL>https://kabesov779.github.io/xiken65312/</BaseURL>
         <SegmentList>
             <SegmentURL media="subtitles_msa.ttml"/>
         </SegmentList>
@@ -787,7 +787,7 @@
     
     <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
     <Representation id="textstream_en_1" bandwidth="256">
-        <BaseURL>https://adamlink666.github.io/school/alina/getaway-2024/</BaseURL>
+        <BaseURL>https://kabesov779.github.io/xiken65312/</BaseURL>
         <SegmentList>
             <SegmentURL media="subtitles_eng.ttml"/>
         </SegmentList>
